@@ -71,7 +71,7 @@ void main()
 	cout << "Общая цена всего комплекта: \t" << total_price << "\tрублей.";
 
 #endif
-
+	
 #ifdef TASK_4
 	double distance;
 	double fuel_consumption;
